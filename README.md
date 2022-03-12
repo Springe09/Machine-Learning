@@ -1,4 +1,4 @@
-# Machine-Learning-Risky Business
+# Risky Business
 
 ## Background
 
